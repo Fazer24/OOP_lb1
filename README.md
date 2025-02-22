@@ -11,3 +11,6 @@
  ![image](https://github.com/user-attachments/assets/947c9071-089f-4e0e-b1f5-ba7fc0fd24a8)
 
 Результат работы операции 1: ![image](https://github.com/user-attachments/assets/423826c6-2bff-45e0-a2de-c71de46e30c8)
+
+Результат работы операции 2: ![image](https://github.com/user-attachments/assets/d75bb904-9482-49be-b61c-821b4ff15cd4)
+
